@@ -12,27 +12,6 @@ DBA Scrapper
 ---
 1.  Клонировать проект и перейти в его корень:
 
-		git clone TS Scrapper
----
-
-Зависимости:
----
-
-- selenium==4.8.2
-- chromium-browser==111.0.5563.8
-
-
-Зависимости:
----
-
-- selenium==4.8.2
-- chromium-browser==111.0.5563.8
-
-
-Запуск проекта
----
-1.  Клонировать проект и перейти в его корень:
-
 		git clone https://github.com/Kolobok99/dbaScrapper
 		cd dbaScrapper
 
